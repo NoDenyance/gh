@@ -1,12 +1,10 @@
 {
-    "name": "gimmick",
-    "type": "module",
-    "main": "src/main.js",
-    "scripts": {
-        "start": "bun src/main.js",
-        "dev": "bun --watch src/main.js"
-    },
-    "dependencies": {
-        "express": "4"
-    }
+  "name": "gimmick",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
