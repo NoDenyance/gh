@@ -1,0 +1,9 @@
+# node content
+node_modules
+bun.lock
+
+# mac cfg
+.DS_Store
+
+# cached bundle
+src/bundle.txt
